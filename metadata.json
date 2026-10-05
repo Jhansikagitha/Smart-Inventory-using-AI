@@ -1,0 +1,6 @@
+{
+  "name": "SmartStock AI – Intelligent Inventory & Demand Prediction System",
+  "description": "Predict Demand. Optimize Inventory. Grow Smarter. Modern retail inventory management with AI-powered demand forecasting, automated reordering, expiry tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
